@@ -1,5 +1,4 @@
 # Unicorn-Landing-Page
-My personal portfolio website 
 Thanks for checking out my Landing page website
 --------------------------------------------------------
 PLUGINS
